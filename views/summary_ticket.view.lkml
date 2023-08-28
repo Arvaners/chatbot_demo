@@ -150,13 +150,13 @@ view: summary_ticket {
   # ----- Sets of fields for drilling ------
   set: detail {
     fields: [
-	id,
-	topicname,
-	tagname,
-	customername,
-	rolename,
-	agentname
-	]
+  id,
+  topicname,
+  tagname,
+  customername,
+  rolename,
+  agentname
+  ]
   }
 
 }
